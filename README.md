@@ -26,4 +26,5 @@ Wellcome Onboard fellow python coder, This is a place where you can start your j
 |SR No |Projects  | Author|
 --- | --- | ---|
 |1|bioactivity|James Leo|
+|2|solubility|James Leo|
 
