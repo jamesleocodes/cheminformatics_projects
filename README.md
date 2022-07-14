@@ -27,4 +27,5 @@ Wellcome Onboard fellow python coder, This is a place where you can start your j
 --- | --- | ---|
 |1|bioactivity|James Leo|
 |2|solubility|James Leo|
+|3|toxicity|James Leo|
 
