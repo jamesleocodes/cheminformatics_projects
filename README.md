@@ -29,4 +29,6 @@ Wellcome Onboard fellow python coder, This is a place where you can start your j
 |2|solubility|James Leo|
 |3|toxicity|James Leo|
 |4|smiles_augmentation|James Leo|
+|5|wine_prediction|James Leo|
+
 
